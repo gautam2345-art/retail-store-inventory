@@ -33,5 +33,5 @@ SQL (subqueries, CTEs) for KPI extraction, risk detection (stockouts/overstock),
 
 Excel leveraged for interactive dashboard, multi-chart visualization, and executive summary panels.
 
-This summary illustrates not only the scale of the dataset but also the variety of analytical approaches and business insights distilled using SQL and Excel dashboards.
+
 
